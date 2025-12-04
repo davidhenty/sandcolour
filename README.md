@@ -2,7 +2,7 @@
 
 This is a fun exercise to get a nice colour palette for the [Abelian
 sandpile model](https://en.wikipedia.org/wiki/Abelian_sandpile_model)
-used for the coursework on the 2025/26 on-campus run of the
+which I used for the coursework on the 2025/26 on-campus run of the
 Message-Passing Programming course. It's a very simple 2D cellular
 automaton where you have piles of grans of sand at each cell. The only
 rule is that, each step, if a pile is four or more grains high it
