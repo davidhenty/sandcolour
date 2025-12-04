@@ -6,7 +6,7 @@ is that, each step, if a pile is four or more grains high it sheds a grain to ea
 sandpiles are 0, 1, 2 or 3 grains high. The output image is coloired ny height and, remarkably for such a simple model, shows really interesting fractal patterns:
 
 <p align="center">
-    <img src="sanddef.png" height="512">
+    <img src="sanddef.png" height="256">
 </p>
 
 The defaut colours I used for the four heights were black, green, magenta and yellow. However, I'm sure there are nicer ways to colour the picture.
@@ -32,7 +32,7 @@ converting <sand512.dat> to <sandnew.ppm> ...
 ... done
 ````
 <p align="center">
-    <img src="sanddef.png" height="512">
+    <img src="sandrng.png" height="256">
 </p>
 
 
