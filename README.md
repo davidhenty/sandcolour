@@ -4,7 +4,7 @@ This is a fun exercise to get a nice colour palette for the [Abelian
 sandpile model](https://en.wikipedia.org/wiki/Abelian_sandpile_model)
 which I used for the coursework on the 2025/26 on-campus run of the
 Message-Passing Programming course. It's a very simple 2D cellular
-automaton where you have piles of grans of sand at each cell. The only
+automaton where you have piles of grains of sand at each cell. The only
 rule is that, each step, if a pile is four or more grains high it
 sheds a grain to each of its four nearest neighbours. Eventually you
 reach a situation where all sandpiles are 0, 1, 2 or 3 grains
