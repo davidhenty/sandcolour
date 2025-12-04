@@ -1,6 +1,6 @@
 # sharpen
-Fun exercise to get a nice colour palette for the abelian
-sandpile model used for the coursework on the 2025/26 on-campus run of
+Fun exercise to get a nice colour palette for the [Abelian
+sandpile model](https://en.wikipedia.org/wiki/Abelian_sandpile_model) used for the coursework on the 2025/26 on-campus run of
 the Message-Passing Programming course.
 
 ````
