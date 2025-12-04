@@ -41,6 +41,5 @@ converting <sand512.dat> to <sandnew.ppm> ...
     <img src="sandrng.png" height="256">
 </p>
 
-
-
-
+**Email your best colour palette to me d.henty@epcc.ed.ac.uk by close
+  of play on Monday 12th January 2026**
