@@ -11,7 +11,7 @@ sandpiles are 0, 1, 2 or 3 grains high. The output image is coloired ny height a
 
 The defaut colours I used for the four heights were black, green, magenta and yellow. However, I'm sure there are nicer ways to colour the picture.
 
-*The challenge is to find the prettiest (in my opinion!) colouring*
+**The challenge is to find the prettiest (in my opinion!) colouring**
 
 I've provided a simple script for you to play around with the colour palette; the colours are specified as RGB triplets (I always use black for zero grains). For example,
 to reproduce the coluring above:
@@ -31,9 +31,10 @@ palette: h1=(212,100,138); h2=(49,181,93); h3=(54,26,135)
 converting <sand512.dat> to <sandnew.ppm> ...
 ... done
 ````
+<p align="center">
+    <img src="sanddef.png" height="512">
+</p>
 
-
-https://github.com/davidhenty/sandcolour.git
 
 
 
