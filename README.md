@@ -1,4 +1,4 @@
-# sharpen
+# Colouring the Abelian Sandpile Model
 
 This is a fun exercise to get a nice colour palette for the [Abelian
 sandpile model](https://en.wikipedia.org/wiki/Abelian_sandpile_model)
