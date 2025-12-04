@@ -27,6 +27,7 @@ echo "converting <$infile> to <$outfile> ..."
 cat <<EOF > $outfile
 P3
 # Written by sandcolour
+# Palette: h1=($1,$2,$3); h2=($4,$5,$6); h3=($7,$8,$9)
 512 512
 $max
 EOF
