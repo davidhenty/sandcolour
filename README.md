@@ -20,7 +20,7 @@ The defaut colours I used for the four heights were black, green, magenta and ye
 **The challenge is to find the prettiest (in my opinion!) colouring**
 
 I've provided a simple script for you to play around with the colour palette; the colours are specified as RGB triplets (I always use black for zero grains). For example,
-to reproduce the coluring above:
+to reproduce the colouring above:
 ````
 ./sandcolour.sh 0 1 0  1 0 1  1 1 0
 palette: h1=(0,1,0); h2=(1,0,1); h3=(1,1,0)
