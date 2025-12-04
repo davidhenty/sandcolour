@@ -6,7 +6,7 @@ is that, each step, if a pile is four or more grains high it sheds a grain to ea
 sandpiles are 0, 1, 2 or 3 grains high. The output image is coloired ny height and, remarkably for such a simple model, shows really interesting fractal patterns:
 
 <p align="center">
-    <img src="sandnew.png" height="512">
+    <img src="sanddef.png" height="512">
 </p>
 
 The defaut colours I used for the four heights were black, green, magenta and yellow. However, I'm sure there are nicer ways to colour the picture.
@@ -24,9 +24,13 @@ converting <sand512.dat> to <sandnew.ppm> ...
 I think the PPM format is reasonably widely supported - it can definitely be viewed (or converted to, say, PNG) using `display` (or `convert`) from the ImageMagick suite.
 
 If you want, you can play around with random colourings:
-dsh@laptop:sandcolour$ ./sandcolour.sh $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256))
-palette: h1=(181,100,235); h2=(186,248,189); h3=(19,252,47)
+
+````
+./sandcolour.sh $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255))
+palette: h1=(212,100,138); h2=(49,181,93); h3=(54,26,135)
 converting <sand512.dat> to <sandnew.ppm> ...
+... done
+````
 
 
 https://github.com/davidhenty/sandcolour.git
