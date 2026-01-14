@@ -32,7 +32,7 @@ I think the PPM format is reasonably widely supported - it can definitely be vie
 If you want, you can play around with random colourings:
 
 ````
-./sandcolour.sh $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255)) $((RANDOM%255))
+./sandcolour.sh $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256)) $((RANDOM%256))
 palette: h1=(212,100,138); h2=(49,181,93); h3=(54,26,135)
 converting <sand512.dat> to <sandnew.ppm> ...
 ... done
