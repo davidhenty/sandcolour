@@ -41,13 +41,14 @@ converting <sand512.dat> to <sandnew.ppm> ...
     <img src="sandrng.png" height="256">
 </p>
 
-**Email your best colour palette to me, d.henty@epcc.ed.ac.uk, by close
-  of play on Monday 12th January 2026**
+I just want the colours (i.e. the nine integer values you provided to `sandcolour.sh`) and **not** the huge PNG image - there will be a small prize for the best entry!
 
-I just want the colours (i.e. the nine integer values you provided to `sanscolour.sh` and **not** the huge PNG image. Note that the palette is included in the header of the PPM file itself, e.g.:
+Note that the palette is included in the header of the PPM file itself, e.g.:
 ````
-use@laptop:$ head -3 sandnew.ppm
+user@laptop:$ head -3 sandnew.ppm
 P3
 # Written by sandcolour
 # Palette: h1=(63,107,232); h2=(219,150,8); h3=(195,24,76)
 ````
+
+## Email your best colour palette to me, d.henty@epcc.ed.ac.uk, by 10am on Monday 2nd February 2026
