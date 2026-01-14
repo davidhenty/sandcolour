@@ -6,7 +6,7 @@ outfile=sandnew.ppm
 
 if [ $# -ne 9 ]
 then
-    echo "./sandcolour.sh R1 G1 B1 R2 G2 B2 R3 G3 B3"
+    echo "usage: sandcolour.sh R1 G1 B1 R2 G2 B2 R3 G3 B3"
     exit
 else
     echo "palette: h1=($1,$2,$3); h2=($4,$5,$6); h3=($7,$8,$9)"
