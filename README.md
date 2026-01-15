@@ -15,7 +15,7 @@ a simple model, shows really interesting fractal patterns:
     <img src="sanddef.png" height="256">
 </p>
 
-The defaut colours I used for the four heights were black, green, magenta and yellow. However, I'm sure there are nicer ways to colour the picture.
+The default colours I used for the four heights were black, green, magenta and yellow. However, I'm sure there are nicer ways to colour the picture.
 
 **The challenge is to find the prettiest (in my opinion!) colouring**
 
